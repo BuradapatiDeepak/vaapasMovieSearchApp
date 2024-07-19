@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaapasMovieSearchApp/static/css/main.0ce1e695.css",
+    "main.js": "/vaapasMovieSearchApp/static/js/main.be3ab79a.js",
+    "static/js/453.e67a8484.chunk.js": "/vaapasMovieSearchApp/static/js/453.e67a8484.chunk.js",
+    "index.html": "/vaapasMovieSearchApp/index.html",
+    "main.0ce1e695.css.map": "/vaapasMovieSearchApp/static/css/main.0ce1e695.css.map",
+    "main.be3ab79a.js.map": "/vaapasMovieSearchApp/static/js/main.be3ab79a.js.map",
+    "453.e67a8484.chunk.js.map": "/vaapasMovieSearchApp/static/js/453.e67a8484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce1e695.css",
+    "static/js/main.be3ab79a.js"
+  ]
+}
